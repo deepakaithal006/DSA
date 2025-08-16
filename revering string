@@ -1,0 +1,4 @@
+orginal_string=input("enter a sring")
+reversed_string=orginal_string[::-1]
+print(reversed_string)
+
