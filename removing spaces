@@ -1,0 +1,3 @@
+old_string=input("enter the sting\n")
+new_string=old_string.replace(" ","")
+print(new_string)
