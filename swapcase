@@ -1,0 +1,3 @@
+old_string=input("enter the string\n")
+new_string=old_string.swapcase()
+print(new_string)
